@@ -27,10 +27,33 @@ Going all in on AWS for a modern data stack.
 * Documentation: https://aws-data-toolkit.readthedocs.io.
 
 
+Why?
+----
+
+AWS have a breadth of services to create a modern "serverless" data stack, but most examples
+or frameworks are concentrated on one or two areas. This is also "my ideal stack" of low maintenance
+infrastructure so you can concentrate on delivering value without being woken up at 3am
+from a machine breaking. Let AWS handle as much of the boring stuff for you.
+
+The project also contains support for (in my opinion) best of breed open source technology.
+
+No Quicksight?
+--------------
+
+The only part of the stack that this project doesn't really address is BI tooling, as that's usually
+in the analyst's domain. I'm just concentrating on getting them the data in a state that can be
+queried by their tool of choice.
+
 Features
 --------
 
-* TODO
+* Out of the box low maintenance data stack powered by AWS tools
+* Data lake creation by AWS Lake Formation
+* Data science by AWS Sagemaker
+* Python ETL Handled by AWS Glue
+* SQL ETL Handled by DBT
+* Batch processing handled by AWS Batch
+* Admin UI
 
 Credits
 -------

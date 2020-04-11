@@ -7,7 +7,7 @@ AWS Data Toolkit
         :target: https://pypi.python.org/pypi/aws_data_toolkit
 
 .. image:: https://img.shields.io/travis/BenjaminDavison/aws_data_toolkit.svg
-        :target: https://travis-ci.com/BenjaminDavison/aws_data_toolkit
+        :target: https://travis-ci.org/BenjaminDavison/aws_data_toolkit
 
 .. image:: https://readthedocs.org/projects/aws-data-toolkit/badge/?version=latest
         :target: https://aws-data-toolkit.readthedocs.io/en/latest/?badge=latest
